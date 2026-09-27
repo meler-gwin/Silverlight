@@ -207,4 +207,4 @@ Silverlight is provided as a full free version, with all features and updates in
 Experience the enhanced web with Silverlight! Download now and unlock a world of multimedia possibilities.
 
 ---
-**Last updated:** 2026-09-26 21:44:25 UTC
+**Last updated:** 2026-09-27 00:06:18 UTC
